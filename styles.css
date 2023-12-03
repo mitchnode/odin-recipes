@@ -1,10 +1,15 @@
 a{
   color: black;
   background-color: grey;
-  padding: 2px;
+  margin: 2px;
   border: solid 1px black;
 }
 a:hover{
   color: white;
   background-color: dark-grey;
+}
+h1{
+  font-family: Roboto, serif;
+  font-size: 18px;
+  text-align: centre;
 }
