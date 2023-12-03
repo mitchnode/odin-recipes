@@ -1,0 +1,10 @@
+a{
+  color: black;
+  background-color: grey;
+  padding: 2px;
+  border: solid 1px black;
+}
+a:hover{
+  color: white;
+  background-color: dark-grey;
+}
