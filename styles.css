@@ -1,15 +1,29 @@
+
 a{
   color: black;
   background-color: grey;
-  margin: 2px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
   border: solid 1px black;
+  display:inline-block;
+  width:200px;
+  text-align: center;
+  font-weight: bold;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: normal ;
 }
 a:hover{
   color: white;
-  background-color: dark-grey;
+  background-color: rgb(32, 31, 31);
 }
 h1{
   font-family: roboto, serif;
   font-size: 28px;
   text-align: center;
+}
+ul{
+  padding: 0;
+  text-align: center;
+  list-style-type: none;
 }
